@@ -1,0 +1,31 @@
+Enter a query: sampleA.data not recognized.
+
+Enter a query:  == TTTT==
+TTAT - Cost:10
+ == TTAT==
+TTTT - Cost:10
+TTAC - Cost:2
+ == TTAC==
+TTTC - Cost:13
+ == GTTT==
+TTTT - Cost:4
+GTAT - Cost:8
+GTAC - Cost:1
+GTTC - Cost:4
+ == GTAT==
+TTAT - Cost:3
+GTAC - Cost:4
+ == GTAC==
+GTTC - Cost:5
+TTAC - Cost:7
+ == GTTC==
+TTTC - Cost:4
+ == TTTC==
+TTTT - Cost:8
+TTAC - Cost:3
+
+Enter a query: Source Gene: Target Gene: Cost:GTAC GTTC 5 cannot mutate into me GTAC GTTC 4
+
+Enter a query: Source Gene: Target Gene: GTAC AAAA cannot mutate into q
+
+Enter a query: 

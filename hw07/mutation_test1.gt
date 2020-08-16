@@ -1,0 +1,41 @@
+Enter data file name: Enter a query: == TTTT ==
+Mutations:
+TTAT - Cost: 10
+== TTAT ==
+Mutations:
+TTTT - Cost: 10
+TTAC - Cost: 2
+== TTAC ==
+Mutations:
+TTTC - Cost: 13
+== GTTT ==
+Mutations:
+TTTT - Cost: 4
+GTAT - Cost: 8
+GTAC - Cost: 1
+GTTC - Cost: 4
+== GTAT ==
+Mutations:
+TTAT - Cost: 3
+GTAC - Cost: 4
+== GTAC ==
+Mutations:
+GTTC - Cost: 5
+TTAC - Cost: 7
+== GTTC ==
+Mutations:
+TTTC - Cost: 4
+== TTTC ==
+Mutations:
+TTTT - Cost: 8
+TTAC - Cost: 3
+
+Enter a query: GTAC can mutate into GTTC with evolutionary cost 5
+
+Enter a query: GTAC can mutate into GTTC but not with evolutionary cost 4
+
+Enter a query: GTAC can mutate into GTTC
+
+Enter a query: GTAC cannot mutate into AAAA
+
+Enter a query: 

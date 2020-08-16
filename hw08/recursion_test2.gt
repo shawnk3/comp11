@@ -1,0 +1,25 @@
+Welcome to the recursion program!
+Here are the recursive functions you can run:
+1. power
+2. print_reverse
+3. return_reverse
+4. subseq
+Please provide the number of a function in the list to execute (0 to quit): Please provide the n to pass to power: Please provide the k to pass to power: 243
+Here are the recursive functions you can run:
+1. power
+2. print_reverse
+3. return_reverse
+4. subseq
+Please provide the number of a function in the list to execute (0 to quit): Please provide the string to reverse: tsebad11pmoc
+Here are the recursive functions you can run:
+1. power
+2. print_reverse
+3. return_reverse
+4. subseq
+Please provide the number of a function in the list to execute (0 to quit): Please provide the string to reverse: tsebaduoyon
+Here are the recursive functions you can run:
+1. power
+2. print_reverse
+3. return_reverse
+4. subseq
+Please provide the number of a function in the list to execute (0 to quit): 
